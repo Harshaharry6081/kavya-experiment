@@ -1,2 +1,21 @@
-# kavya-experiment
-🏎️❤️ A love-themed F1 web experiment — built to ask Kavya one very important question. Features a runaway No button, racing vibes, and a surprise cartoon reveal. Deploy with GitHub Pages &amp; share the link.
+# 🏎️ Kavya Grand Prix ❤️
+
+A tiny web experiment built with pure HTML/CSS/JS.
+
+## What it does
+- Asks Kavya one very important question 😄
+- The **No** button runs away every time you hover it
+- Click **Yes** → surprise cartoon + unlock screen
+- F1 + Love theme combined
+
+## Live Demo
+👉 https://yourusername.github.io/kavya-grand-prix
+
+## How to run
+Just open `index.html` in any browser.
+No dependencies. No frameworks. Just vibes. 🏁
+
+## Built with
+- HTML / CSS / JavaScript
+- Racing Sans One font
+- A lot of feelings 💕
