@@ -9,7 +9,7 @@ A tiny web experiment built with pure HTML/CSS/JS.
 - F1 + Love theme combined
 
 ## Live Demo
-👉 https://yourusername.github.io/kavya-grand-prix
+👉 https://Harshaharry6081.github.io/kavya-experiment
 
 ## How to run
 Just open `index.html` in any browser.
